@@ -1,2 +1,2 @@
 # HelloWord
-print("way to accomplish my self") 
+print("way to accomplish myself") 
